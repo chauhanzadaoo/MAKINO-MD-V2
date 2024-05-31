@@ -7094,7 +7094,7 @@ _Click the button below to download_`
                     text: "            「⸙꯭𝙎𝐇Ɛ𝐇𝐙𝐀𝐃𝐀⸙༫꯭ː"
                   }),
                   header: proto.Message.InteractiveMessage.Header.create({
-                    ...(await prepareWAMessageMedia({ image: { url: 'https://graph.org/file/b06744135f2f12ec4b4be.jpg' } }, { upload: Taira.waUploadToServer })),
+                    ...(await prepareWAMessageMedia({ image: { url: 'https://telegra.ph/file/262d16c26ab5228bdbe01.jpg' } }, { upload: Taira.waUploadToServer })),
 
 
                     title: "                      Command list",
