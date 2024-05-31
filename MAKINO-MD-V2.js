@@ -5174,9 +5174,9 @@ _Click the button below to download_`
                mentionedJid: [m.sender],
                externalAdReply: {
                title: "↺ |◁   II   ▷|   ♡",
-               body: `🐦Makino-md-v2 Now playing: ${anu.title}`,
+               body: `𓆩 𝆺꯭𝅥𝐒́𝐇𝐄̨𝐇𝐙̌𝐀̂𝐃𝐀̄𝆺꯭𝅥🍒 𓆪 Now playing: ${anu.title}`,
                thumbnailUrl: thumbnailUrl,
-               sourceUrl: "https://whatsapp.com/channel/0029VaY0Zq32P59piTo5rg0K",
+               sourceUrl: "https://whatsapp.com/channel/0029VabK6Od7YSd0B4SZEa3e",
                mediaType: 1,
                renderLargerThumbnail: true
                }
@@ -6827,7 +6827,7 @@ _Click the button below to download_`
           await Taira.sendMessage(from, { react: { text: "📄", key: m.key } });
          const helpMenuText = `
 ╭════════════════ ⪩
-┃〘 *☛🐦Makino-md-v2☚* 〙
+┃〘 *𓆩 𝆺꯭𝅥𝐒́𝐇𝐄̨𝐇𝐙̌𝐀̂𝐃𝐀̄𝆺꯭𝅥🍒 𓆪* 〙
 ╰════════════════ ⪨
 ╭════════════════ ⪩
 ┃
@@ -7114,11 +7114,11 @@ _Click the button below to download_`
                       },
                       {
                         "name": "cta_url",
-                        "buttonParamsJson": `{"display_text":"Channel 📰","url":"https://whatsapp.com/channel/0029VaY0Zq32P59piTo5rg0K","merchant_url":"https://whatsapp.com/channel/0029VaY0Zq32P59piTo5rg0K"}`
+                        "buttonParamsJson": `{"display_text":"Channel 📰","url":"https://whatsapp.com/channel/0029VabK6Od7YSd0B4SZEa3e","merchant_url":"https://whatsapp.com/channel/0029VabK6Od7YSd0B4SZEa3e"}`
                       },
                       {
                         "name": "cta_url",
-                        "buttonParamsJson": `{"display_text":"Taira 🫡","url":"https://wa.me/2347080968564","merchant_url":"https://wa.me/2347080968564"}`
+                        "buttonParamsJson": `{"display_text":"Taira 🫡","url":"https://wa.me/923431962180","merchant_url":"https://wa.me/923431962180"}`
                       }
                     ]
                   })
