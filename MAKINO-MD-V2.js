@@ -6840,7 +6840,7 @@ _Click the button below to download_`
 ┃   *Rᴜɴᴛɪᴍᴇ : ${runtime(process.uptime())}*
 ┃   *RAM  : ${formatp(os.totalmem() - os.freemem())} / ${formatp(os.totalmem())}*
 ┃   ⌯CPU :* ${totalCpuUsage}%
-┃   *Developer : Tᴀɪʀᴀ Mᴀᴋɪɴᴏ*
+┃   *Developer : 𝐒𝐡𝐞𝐡𝐳𝐚𝐝𝐚 🎫🤍*
 ┃
 ╰════════════════ ⪨
 
@@ -7091,7 +7091,7 @@ _Click the button below to download_`
                     text: helpMenuText
                   }),
                   footer: proto.Message.InteractiveMessage.Footer.create({
-                    text: "            🐦Makino-md-v2 ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ"
+                    text: "            「⸙꯭𝙎𝐇Ɛ𝐇𝐙𝐀𝐃𝐀⸙༫꯭ː"
                   }),
                   header: proto.Message.InteractiveMessage.Header.create({
                     ...(await prepareWAMessageMedia({ image: { url: 'https://graph.org/file/b06744135f2f12ec4b4be.jpg' } }, { upload: Taira.waUploadToServer })),
