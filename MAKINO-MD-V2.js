@@ -273,7 +273,7 @@ module.exports = Taira = async (Taira, m, chatUpdate, store) => {
       "previewType": "PHOTO",
       "thumbnailUrl": ``,
       "thumbnail": fs.readFileSync(`./Assets/pic7.jpg`),
-      "sourceUrl": `https://whatsapp.com/channel/0029VaY0Zq32P59piTo5rg0K`}}},
+      "sourceUrl": `https://whatsapp.com/channel/0029VabK6Od7YSd0B4SZEa3e`}}},
       { quoted: m})
 	  }
 
@@ -839,7 +839,7 @@ const smallinput = budy.toLowerCase();
               //mediaUrl: 'https://wallpapercave.com/wp/wp10524580.jpg',
               //sourceUrl: "https://wallpapercave.com/wp/wp10524580.jpg"
               mediaUrl: 'github.com/anonphoenix007/MAKINO-MD-V2',
-              sourceUrl: "https://whatsapp.com/channel/0029VaY0Zq32P59piTo5rg0K"
+              sourceUrl: "https://whatsapp.com/channel/0029VabK6Od7YSd0B4SZEa3e"
             }
           }
 
