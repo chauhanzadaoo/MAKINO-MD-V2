@@ -34,19 +34,19 @@ global.SupportGroupLink = "https://chat.whatsapp.com/KEg0G3UUs1G39ikdyfF5Pm"; //
 global.dbase = process.env.DBASE || "";//Mongodb here
 global.AuthorWhatsapp = "https://wa.me/2347080968564"; //Bot creator WhatsApp link,don't change or bot will not work.
 */
-global.Owner = [""];
-global.OwnerNumber = [""];
-global.ownertag = [""]; 
-global.OwnerName =  "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
-global.BotName = "🐦Makino-md-v2";
-global.packname = "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";                             //Do not change.
-global.author = "🐦Makino md ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ";                               //Do not change.
+global.Owner = ["923431962180"];
+global.OwnerNumber = ["923431962180"];
+global.ownertag = ["923431962180"]; 
+global.OwnerName =  "𝐒𝐡𝐞𝐡𝐙𝐚𝐝𝐚 👀🩶";
+global.BotName = "𝐒𝐡𝐞𝐡𝐙𝐚𝐝𝐚 👀🩶";
+global.packname = "𝐒𝐡𝐞𝐡𝐙𝐚𝐝𝐚 👀🩶";                             //Do not change.
+global.author = "𝐒𝐡𝐞𝐡𝐙𝐚𝐝𝐚 👀🩶";                               //Do not change.
 global.BotSourceCode = "https://github.com/anonphoenix007/MAKINO-MD-V2"; //Do not change.
-global.SupportGroupLink = "https://chat.whatsapp.com/KEg0G3UUs1G39ikdyfF5Pm "; 
+global.SupportGroupLink = "https://chat.whatsapp.com/Lsah7jfALtW11aDl9EQUCB"; 
 global.sessID = process.env.sessID || ""; //Session ID here.
-global.SupportGroupLink = "https://chat.whatsapp.com/KEg0G3UUs1G39ikdyfF5Pm"; //Do not change!
+global.SupportGroupLink = "https://chat.whatsapp.com/Lsah7jfALtW11aDl9EQUCB"; //Do not change!
 //global.dbase = process.env.DBASE || "";//Mongodb here
-global.AuthorWhatsapp = "https://wa.me/2347080968564"; //Bot creator WhatsApp link,don't change or bot will not work.
+global.AuthorWhatsapp = "https://wa.me/923431962180"; //Bot creator WhatsApp link,don't change or bot will not work.
 //
 global.sessionName = "session";                          //Do not change.
 
